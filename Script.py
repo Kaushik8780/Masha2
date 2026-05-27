@@ -519,7 +519,7 @@ Hey <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a>
 
  How and what to do
 
- Step 1: Administer this Masha bot bot to your group
+ Step 1: Administer this Masha bot to your group
 
  Step 2: Add your website and API
 
@@ -573,7 +573,7 @@ Also your tutorial will be Added Your Group..."""
 
  कैसे और क्या करना है
 
- चरण 1: इस फ़िल्टर-बॉट बॉट को अपने समूह में प्रशासित करें
+ चरण 1: इस फ़िल्टर-बॉट को अपने समूह में प्रशासित करें
 
  चरण 2: अपनी वेबसाइट और एपीआई जोड़ें
 
@@ -654,9 +654,9 @@ Also your tutorial will be Added Your Group..."""
 
  કેવી રીતે અને શું કરવું
 
- પગલું 1: તમારા જૂથમાં આ Masha bot બોટનું સંચાલન કરો
+ પગલું 1: તમારા જૂથમાં આ Masha bot નું સંચાલન કરો.
 
- પગલું 2: તમારી વેબસાઇટ અને API ઉમેરો
+ પગલું 2: તમારી વેબસાઇટ અને API ઉમેરો.
 
  સમાપ્તિ: /shortlink xtz.in 4b392f8eb6ad711fbe58
 
