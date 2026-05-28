@@ -35,7 +35,7 @@
 
 - Note : You Can Turn On Or Off Every Feature, Just Use Which Feature You Want By Turning It On.
 
-Join My <a href='https://telegram.me/vj_bots'>Update Channel</a> For More Update Regarding Repo.</b>
+Join My <a href='https://telegram.me/AZ_ADDA_HUB'>Update Channel</a> For More Update Regarding Repo.</b>
 
 ### How To Deploy : [Video Tutorial](https://youtu.be/3SJR7vH2kRo)
 
